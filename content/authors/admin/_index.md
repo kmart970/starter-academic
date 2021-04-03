@@ -3,9 +3,9 @@ title: Karen Martirosyan
 role: Health Services Researcher and Health Policy Specialist
 bio: My research interests include Urban Health, Health Systems, and Global Health.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban Health
+  - Health Systems
+  - Global Health
 social:
   - icon: envelope
     icon_pack: fas
