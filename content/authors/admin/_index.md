@@ -16,26 +16,19 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+    link: https://www.linkedin.com/in/karen-martirosyan/
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Public Administration in International Health Policy and
+        Management
+      institution: New York University - Robert F. Wagner Graduate School of Public Service
+      year: 2018
+    - course: Bachelor of Science in Biology
+      institution: St. John's University
+      year: 2015
 email: ""
 superuser: true
 highlight_name: false
