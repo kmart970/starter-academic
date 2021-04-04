@@ -32,6 +32,10 @@ feature:
   icon: laptop-medical
   icon_pack: fas
   name: EPIC EMR
+- description:
+  icon: chart-scatter
+  icon_pack: fas
+  name: Econometrics 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
