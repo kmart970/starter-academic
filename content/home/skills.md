@@ -28,6 +28,10 @@ feature:
   icon: windows
   icon_pack: fab
   name: Microsoft Office
+- description:
+  icon: laptop-medical
+  icon_pack: fas
+  name: EPIC EMR
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
