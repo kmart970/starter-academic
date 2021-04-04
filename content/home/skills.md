@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: chart-line
+  icon: chart-pie
   icon_pack: fas
   name: Statistics
 - description:
@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: EPIC EMR
 - description:
-  icon: chart-scatter
+  icon: chart-line
   icon_pack: fas
   name: Econometrics
 - description:
