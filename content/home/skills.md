@@ -35,7 +35,11 @@ feature:
 - description:
   icon: chart-scatter
   icon_pack: fas
-  name: Econometrics 
+  name: Econometrics
+- description:
+  icon: globe-africa
+  icon_pack: fas
+  name: GIS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
